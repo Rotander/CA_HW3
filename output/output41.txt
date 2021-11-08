@@ -1,0 +1,8 @@
+Container stores 6 shapes:
+Ball: density = 1  r = 5, Volume = 104.71975511965977
+Parallelepiped: density = 1  a = 1 b = 1 c = 1, Volume = 1
+Tetrahedron: density = 1  a = 4, Volume = 7.542472332656508
+Ball: density = 1  r = 32, Volume = 4289.321169701264
+Parallelepiped: density = 1  a = 5 b = 4 c = 19, Volume = 380
+Tetrahedron: density = 1  a = 10, Volume = 117.85113019775793
+Summa of Volume  = 4900.434527351338

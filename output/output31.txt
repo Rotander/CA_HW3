@@ -1,0 +1,5 @@
+Container stores 3 shapes:
+Parallelepiped: density = 1  a = 100 b = 2 c = 1, Volume = 200
+Parallelepiped: density = 1  a = 1 b = 2 c = 3, Volume = 6
+Parallelepiped: density = 1  a = 1 b = 13 c = 15, Volume = 195
+Summa of Volume  = 401.0

@@ -1,0 +1,3 @@
+Container stores 1 shapes:
+Ball: density = 1  r = 32, Volume = 4289.321169701264
+Summa of Volume  = 4289.321169701264
